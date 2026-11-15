@@ -1,0 +1,11 @@
+
+[Sections]
+startup = 0
+vectors = .
+routines = .
+code = .
+rodata = .
+data = 8000
+bss = .
+stack = FFFC
+
